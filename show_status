@@ -149,7 +149,7 @@ if __name__ == "__main__":
 		    result = bcolors.FAIL + "Changes" + bcolors.ENDC
 
                 # Write to screen
-                sys.stdout.write("--" + bcolors.OKBLUE + infile.ljust(55) + bcolors.ENDC + branch + " : " + result +"\n")
+                sys.stdout.write("-- " + bcolors.OKBLUE + infile.ljust(55) + bcolors.ENDC + branch + " : " + result +"\n")
 
             else:
                 #Print some repo details
