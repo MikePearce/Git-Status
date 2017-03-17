@@ -7,7 +7,7 @@ Note: for a similar take on this problem, see [uncommitted](https://github.com/b
 
 ## Installation
 
-Copy the file to `/usr/bin`(or `/usr/bin`)
+Copy the file to `/usr/bin`(or `/usr/sbin`)
 
 ```bash
 cp show_status /usr/bin
