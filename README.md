@@ -5,7 +5,7 @@ too. So I knocked this up.
 
 Note: for a similar take on this problem, see [uncommitted](https://github.com/brandon-rhodes/uncommitted)
 
-# Installation
+## Installation
 
 Copy the file to `/usr/bin`(or `/usr/bin`)
 
@@ -19,7 +19,7 @@ Give it execute permissions
 chmod +x /usr/bin/show_status
 ```
 
-# Usage
+## Usage
 
 Usage: `show_status [options]`
 
@@ -40,6 +40,6 @@ Options:
   -p PULL, --pull=PULL  Pull from the master (remotename:branchname)
 ```
 
-# Warranties/Guarantees
+## Warranties/Guarantees
 
 None, you're on your own. If you'd like some help, email me at mike@mikepearce.net
