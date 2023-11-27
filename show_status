@@ -107,7 +107,6 @@ if __name__ == "__main__":
     sys.stdout.write('Scanning sub directories of %s\n' %options.dirname)
 
     # See whats here
-    mai_dir = pathlib.Path(options.dirname)
     globRegex = ''
     for recursion in range(options.recursive):
         globRegex += '*/'
